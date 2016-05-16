@@ -1,0 +1,26 @@
+﻿[
+  {
+    "outputFile": "style/navbar.css",
+    "inputFile": "style/navbar.scss"
+  },
+  {
+    "outputFile": "style/index-layout.css",
+    "inputFile": "style/index-layout.scss"
+  },
+  {
+    "outputFile": "style/main.css",
+    "inputFile": "style/main.scss"
+  },
+  {
+    "outputFile": "style/aboutme.css",
+    "inputFile": "style/aboutme.scss"
+  },
+  {
+    "outputFile": "style/touch.css",
+    "inputFile": "style/touch.scss"
+  },
+  {
+    "outputFile": "style/footer.css",
+    "inputFile": "style/footer.scss"
+  }
+]
