@@ -6,6 +6,7 @@
     }
 
     .box1 {
+        margin-right:42px;
         height:120px;
         width:207px;
         display:inline-block;
@@ -14,32 +15,36 @@
     }
 
     .box2 {
+        margin-right:42px;
         height:120px;
         width:207px;
         display:inline-block;
-        position: absolute;
+        position: relative;
         top: 100px;
-        left: 270px;
+       
     }
 
     .box3 {
+        margin-right:42px;
         height:120px;
         width:207px;
         display:inline-block;
-        position: absolute;
+        position: relative;
         top: 100px;
-        left: 525px;
+        
     }
 
     .box4 {
+        
         height:120px;
         width:207px;
         display:inline-block;
-        position: absolute;
+        position:relative;
         top: 100px;
-        right: 15px;
+        
     }
     .box5 {
+        margin-right:29px;
         height:120px;
         width:207px;
         display:inline-block;
@@ -47,65 +52,73 @@
         
     }
     .box6 {
-        height:120px;
-        width:207px;
-        display:inline-block;
-        position: absolute;
-        left:256px;
-        
-    }
-     .box7 {
-         height:120px;
-        width:207px;
-         display:inline-block;
-        position: absolute;
-        left:496px;
-    }
-     .box8{
-         height:120px;
-        width:207px;
-         display:inline-block;
-        position: absolute;
-        left: 735px;
-    }
-     .box9 {
-         height:120px;
-        width:207px;
-         display:inline-block;
-        position: absolute;
-        right: 15px;
-    }
-
-    .box10 {
+        margin-right:30px;
         height:120px;
         width:207px;
         display:inline-block;
         position: relative;
-        top: -130px;
+        
+        
+    }
+     .box7 {
+         margin-right:30px;
+         height:120px;
+        width:207px;
+         display:inline-block;
+        position: relative;
+        
+    }
+     .box8{
+         margin-right:30px;
+         height:120px;
+        width:207px;
+         display:inline-block;
+        position:relative;
+        
+    }
+     .box9 {
+        
+         height:120px;
+        width:207px;
+         display:inline-block;
+        position: relative;
+        
+    }
+
+    .box10 {
+        margin-right:42px;
+        height:120px;
+        width:207px;
+        display:inline-block;
+        position: relative;
+        
     }
      .box11 {
+         margin-right:42px;
         height:120px;
         width:207px;
         display:inline-block;
-        position: absolute;
-        top: -130px;
-        left: 269px;
+        position: relative;
+        
+        
     }
       .box12 {
+          margin-right:42px;
         height:120px;
         width:207px;
         display:inline-block;
-        position: absolute;
-        top: -130px;
-        left: 523px;
+        position: relative;
+       
+        
     }
        .box13 {
+         
         height:120px;
         width:207px;
         display:inline-block;
-        position: absolute;
-        top: -130px;
-        right: 15px;
+        position: relative;
+        
+        
     }
     .first {
         height: 120px;
@@ -166,5 +179,10 @@
         -ms-transform: rotate(60deg);
         -o-transform: rotate(60deg);
         transform: rotate(60deg);
+    }
+
+    .pic-display3{
+        position:relative;
+        top:-120px;
     }
 }
