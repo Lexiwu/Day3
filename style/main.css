@@ -1,7 +1,10 @@
 ﻿body .display {
   background-color: #FFF;
+  position: relative; }
+
+body .all-display {
   position: relative;
-  top: -20px; }
+  top: 120px; }
 
 body .box1 {
   margin-right: 42px;

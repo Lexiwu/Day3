@@ -22,5 +22,9 @@
   {
     "outputFile": "style/footer.css",
     "inputFile": "style/footer.scss"
+  },
+  {
+    "outputFile": "style/navbar3.css",
+    "inputFile": "style/navbar3.scss"
   }
 ]

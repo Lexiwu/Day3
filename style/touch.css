@@ -1,7 +1,6 @@
 ﻿body .touch {
   background-color: #323232;
-  position: relative;
-  top: -300px; }
+  position: relative; }
 
 body .getintouch {
   color: #f8f8f8; }

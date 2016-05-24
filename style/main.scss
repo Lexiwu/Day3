@@ -2,7 +2,12 @@
     .display {
         background-color: #FFF;
         position: relative;
-        top: -20px;
+        
+    }
+
+    .all-display{
+        position:relative;
+        top:120px;
     }
 
     .box1 {
@@ -63,25 +68,25 @@
      .box7 {
          margin-right:30px;
          height:120px;
-        width:207px;
+         width:207px;
          display:inline-block;
-        position: relative;
+         position: relative;
         
     }
      .box8{
          margin-right:30px;
          height:120px;
-        width:207px;
+         width:207px;
          display:inline-block;
-        position:relative;
+         position:relative;
         
     }
      .box9 {
         
          height:120px;
-        width:207px;
+         width:207px;
          display:inline-block;
-        position: relative;
+         position: relative;
         
     }
 
@@ -94,7 +99,7 @@
         
     }
      .box11 {
-         margin-right:42px;
+        margin-right:42px;
         height:120px;
         width:207px;
         display:inline-block;
@@ -103,7 +108,7 @@
         
     }
       .box12 {
-          margin-right:42px;
+        margin-right:42px;
         height:120px;
         width:207px;
         display:inline-block;

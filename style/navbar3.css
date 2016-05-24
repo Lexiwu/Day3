@@ -1,6 +1,7 @@
-﻿body .navbar {
+﻿body .navbar3 {
   background-color: #323232;
-  z-index: 1; }
+  z-index: 1;
+  position: relative; }
 
 body .menu1 {
   list-style-type: none;

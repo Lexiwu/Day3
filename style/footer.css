@@ -1,7 +1,6 @@
 ﻿body .copyright {
   background-color: #222;
-  position: relative;
-  top: -300px; }
+  position: relative; }
 
 body .copyright p {
   margin-top: 10px; }

@@ -1,7 +1,6 @@
 ﻿body .aboutme {
   background-image: url("../image/about/Background.png");
-  position: relative;
-  top: -300px; }
+  position: relative; }
 
 body .profile {
   position: relative;
