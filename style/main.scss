@@ -10,125 +10,10 @@
         top:120px;
     }
 
-    .box1 {
-        margin-right:42px;
-        height:120px;
-        width:207px;
-        display:inline-block;
-        position: relative;
-        top: 100px;
-    }
-
-    .box2 {
-        margin-right:42px;
-        height:120px;
-        width:207px;
-        display:inline-block;
-        position: relative;
-        top: 100px;
-       
-    }
-
-    .box3 {
-        margin-right:42px;
-        height:120px;
-        width:207px;
-        display:inline-block;
-        position: relative;
-        top: 100px;
-        
-    }
-
-    .box4 {
-        
-        height:120px;
-        width:207px;
-        display:inline-block;
-        position:relative;
-        top: 100px;
-        
-    }
-    .box5 {
-        margin-right:29px;
-        height:120px;
-        width:207px;
-        display:inline-block;
-        position: relative;
-        
-    }
-    .box6 {
-        margin-right:30px;
-        height:120px;
-        width:207px;
-        display:inline-block;
-        position: relative;
-        
-        
-    }
-     .box7 {
-         margin-right:30px;
-         height:120px;
-         width:207px;
-         display:inline-block;
-         position: relative;
-        
-    }
-     .box8{
-         margin-right:30px;
-         height:120px;
-         width:207px;
-         display:inline-block;
-         position:relative;
-        
-    }
-     .box9 {
-        
-         height:120px;
-         width:207px;
-         display:inline-block;
-         position: relative;
-        
-    }
-
-    .box10 {
-        margin-right:42px;
-        height:120px;
-        width:207px;
-        display:inline-block;
-        position: relative;
-        
-    }
-     .box11 {
-        margin-right:42px;
-        height:120px;
-        width:207px;
-        display:inline-block;
-        position: relative;
-        
-        
-    }
-      .box12 {
-        margin-right:42px;
-        height:120px;
-        width:207px;
-        display:inline-block;
-        position: relative;
-       
-        
-    }
-       .box13 {
-         
-        height:120px;
-        width:207px;
-        display:inline-block;
-        position: relative;
-        
-        
-    }
+   
     .first {
         height: 120px;
         width: 207px;
-        background-color: red;
         position: relative;
         overflow: hidden;
     }
@@ -136,7 +21,6 @@
     .second {
         height: 120px;
         width: 207px;
-        background-color: blue;
         position: relative;
         top: -120px;
         -webkit-transform: rotate(60deg);
@@ -150,7 +34,6 @@
     .third {
         height: 120px;
         width: 207px;
-        background-color: green;
         position: relative;
         top: -240px;
         -webkit-transform: rotate(-60deg);
@@ -186,8 +69,11 @@
         transform: rotate(60deg);
     }
 
-    .pic-display3{
-        position:relative;
-        top:-120px;
-    }
+    .hex {
+    float: left;
+    margin-left: 3px;
+    margin-bottom: -26px;
+}
+
+
 }

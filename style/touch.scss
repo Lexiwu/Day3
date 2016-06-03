@@ -11,25 +11,25 @@
     }
 
     .form-name{
-        margin-bottom:20px;
+        
         width:750px;
         height:45px;
         opacity:0.4;
     }
     .form-email{
-        margin-bottom:20px;
+        
         width:750px;
         height:45px;
         opacity:0.4;
     }
     .form-subject{
-        margin-bottom:20px;
+        margin-bottom:30px;
         width:750px;
         height:45px;
         opacity:0.4;
     }
      .form-message{
-        margin-bottom:20px;
+        
         width:750px;
         height:150px;
         display:block;
@@ -44,6 +44,11 @@
      .touch-txt{
          color:#FFF;
          line-height:1.5em;
+     }
+
+     .error-message{
+         height:30px;
+         color:#FFF;
      }
 
 
